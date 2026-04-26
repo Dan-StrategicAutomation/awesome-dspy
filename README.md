@@ -6,6 +6,7 @@ A collection of awesome things regarding DSPy.
 
 - [Official Documentation](https://dspy-docs.vercel.app/)
 
+- [Arachne](https://github.com/Strategic-Automation/arachne) - DSPy-native autonomous agent runtime. Weaves optimized execution DAGs from natural language goals, executes nodes in parallel waves, and autonomously self-heals on failure. Features GraphWeaver, WaveExecutor, TriangulatedEvaluator, AutoHealer, and MCP client integration.
 
 ### Projects
 
